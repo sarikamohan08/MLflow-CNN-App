@@ -142,3 +142,4 @@ mlruns/
 data.zip
 running_logs.log
 hymenoptera_data/
+data/bad_data
