@@ -21,7 +21,7 @@ logging.basicConfig(
 def main(config_path):
     ## read config files
     config = read_yaml(config_path)
-    '''
+    
     URL = config["data"]["source_url"]
     local_dir = config["data"]["local_dir"]
     create_directories([local_dir])
@@ -46,7 +46,7 @@ def main(config_path):
         logging.info(f"data already extracted")
     
     # validating data
-    '''
+    
 
     validate_image(config)
 
