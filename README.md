@@ -1,5 +1,5 @@
-# MLflow-project-template
-MLflow project template
+# MLflow-CNN App
+MLflow CNN App using general template
 
 ## STEPS -
 
